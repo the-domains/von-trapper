@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Von Trapper]]></title>
+        <description><![CDATA[Von Trapper]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 23:43:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Well, this is my new home it seems. SoundCloud continues to wage accidental war on its loyal community of creators with takedown warnings and automated blocks on mash-ups. You can't even post privately, let alone publicly, with material it considers infringing.</p>]]></description>
+            <link>undefinedwell-this-is-my-new-home-it-seems-soundcloud-continues-to/index.html</link>
+            <guid isPermaLink="false">2fb709dd-f341-42b3-8a10-0520786bc581</guid>
+            <pubDate>Mon, 08 Aug 2016 23:43:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
