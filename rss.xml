@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Von Trapper]]></title>
         <description><![CDATA[Von Trapper]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/von-trapper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 23:43:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 01:46:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/von-trapper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Well, this is my new home it seems. SoundCloud continues to wage accidental war on its loyal community of creators with takedown warnings and automated blocks on mash-ups. You can't even post privately, let alone publicly, with material it considers infringing.</p>]]></description>
-            <link>undefinedwell-this-is-my-new-home-it-seems-soundcloud-continues-to/index.html</link>
+            <link>https://thegrid.ai/von-trapper/well-this-is-my-new-home-it-seems-soundcloud-continues-to/index.html</link>
             <guid isPermaLink="false">2fb709dd-f341-42b3-8a10-0520786bc581</guid>
-            <pubDate>Mon, 08 Aug 2016 23:43:35 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 01:46:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
