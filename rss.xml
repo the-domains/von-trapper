@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Von Trapper]]></title>
-        <description><![CDATA[Von Trapper]]></description>
+        <title><![CDATA[adventures in mash-up mastering]]></title>
+        <description><![CDATA[adventures in mash-up mastering]]></description>
         <link>https://thegrid.ai/von-trapper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 01:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 01:55:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/von-trapper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Well, this is my new home it seems. SoundCloud continues to wage accidental war on its loyal community of creators with takedown warnings and automated blocks on mash-ups. You can't even post privately, let alone publicly, with material it considers infringing.</p>]]></description>
+            <title><![CDATA[I’ve moved house…]]></title>
+            <description><![CDATA[<article><h1>I’ve moved house…</h1><p>Well, this is my new home it seems. SoundCloud continues to wage accidental war on its loyal community of creators with takedown warnings and automated blocks on mash-ups. You can't even post privately, let alone publicly, with material it considers infringing.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/539dd8b1-0d6e-4d4d-9d98-ba2cb4127a8c.png"></article>]]></description>
             <link>https://thegrid.ai/von-trapper/well-this-is-my-new-home-it-seems-soundcloud-continues-to/index.html</link>
             <guid isPermaLink="false">2fb709dd-f341-42b3-8a10-0520786bc581</guid>
-            <pubDate>Wed, 31 Aug 2016 01:46:46 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 01:55:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
