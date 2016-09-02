@@ -1,19 +1,4 @@
-name: Von Trapper
-favicon: null
-layout_spectrum: 0.814545693108812
 typography_spectrum: 0.3982606583740562
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e7f2ef'
@@ -25,4 +10,20 @@ color:
   lightness: 0.46583007532171905
   saturation: 0.9467988947872072
   rhythmicContrast: 0.7987704793922603
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.814545693108812
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Von Trapper
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Bass drums and small speakers
 purpose: []
